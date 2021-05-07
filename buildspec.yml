@@ -15,4 +15,5 @@ phases:
 artifacts:
   files:
     - target/spring-mvc-showcase.war
+  packaging: none
   discard-paths: yes
