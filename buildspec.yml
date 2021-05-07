@@ -15,5 +15,4 @@ phases:
 artifacts:
   files:
     - target/spring-mvc-showcase.war.jar
-    - appspec.yml
   discard-paths: yes
