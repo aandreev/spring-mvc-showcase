@@ -14,5 +14,5 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/spring-mvc-showcase.war.jar
+    - target/spring-mvc-showcase.war
   discard-paths: yes
