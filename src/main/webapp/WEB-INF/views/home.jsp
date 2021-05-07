@@ -16,7 +16,8 @@
 	<meta name="_csrf_header" content="${_csrf.headerName}"/>
 </head>
 <body>
-<h1><a href="<c:url value="/" />">spring-mvc-showcase</a></h1>
+	<img src="<c:url value="/resources/img/octank.png" />" style="width:500px;height:auto"/>
+	<h1><a href="<c:url value="/" />">Octank Spring Testpad</a></h1>
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
 <div id="tabs">
 	<ul>
